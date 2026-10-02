@@ -1,0 +1,3 @@
+Recovered artifacts extracted from saved outputs embedded in the uploaded Colab notebook.
+These are notebook-rendered graph images and displayed tables, not a rerun of training.
+The original notebook remains the source of implementation and experimental context.
